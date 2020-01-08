@@ -8,7 +8,7 @@ class NameBackwardsTest {
 
 	@Test
 	void reverseInputTest() {
-		assertEquals("efil", NameBackwards.reverseInput("Life"));
+		assertEquals("efiL", NameBackwards.reverseInput("Life"));
 	}
 	
 	@Test
